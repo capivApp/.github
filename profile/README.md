@@ -50,7 +50,7 @@
 ## 📬 Contato
 
 📧 contato@capivapp.com  
-🌐 [capivapp.com](https://capivapp.com)
+🌐 [capivapp.com](https://capivapp.com.br)
 💼 LinkedIn / GitHub: **@capivapp**
 
 ---
